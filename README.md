@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucastancredi
 - 👀 I’m interested in Data Analytics and BI
-- 🌱 I’m currently learning SQL, Python and Scala
+- 🌱 I’m currently learning SQL, Python and Power BI
 - 💞️ I’m looking to collaborate on a project for beginners
 - 📫 You can reach me on my Linkedin: linkedin.com/in/lucastancredi
 
