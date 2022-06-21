@@ -1,4 +1,4 @@
-Hi 👋 My name is Lucas Tancredi de Matos
+Hi 👋 My name is Lucas Tancredi
 ========================================
 
 Data Engineer Trainee @ Blueshift Brasil
