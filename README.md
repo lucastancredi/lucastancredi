@@ -8,7 +8,7 @@ Data Engineer Trainee @ Blueshift Brasil
 * ✉️  You can contact me at [lucstancredi@gmail.com](mailto:lucstancredi@gmail.com)
 * 🧠  I'm learning Python, SQL, Spark and more about cloud concepts.
 * 🤝  I'm open to collaborating with anyone
-* ⚡  Really like to talk about Data with anyone
+* ⚡  Really like to talk about new technologies and random stuff
 
 ### Skills
 
