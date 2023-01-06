@@ -4,10 +4,10 @@ Hi 👋 My name is Lucas Tancredi
 Data Engineer Trainee @ Blueshift Brasil
 ----------------------------------------
 
-* 🌍  I'm based in Brasília, Brasil
+* 🌍  I'm based in Brasil
 * ✉️  You can contact me at [lucstancredi@gmail.com](mailto:lucstancredi@gmail.com)
-* 🧠  I'm learning Python, SQL, Azure
-* 🤝  I'm open to collaborating on interesting projects
+* 🧠  I'm learning Python, SQL, Spark and more about cloud concepts.
+* 🤝  I'm open to collaborating with anyone
 * ⚡  Really like to talk about Data with anyone
 
 ### Skills
@@ -19,7 +19,7 @@ Data Engineer Trainee @ Blueshift Brasil
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://spark.apache.org" target="_blank" rel="noreferrer"><img src="https://spark.apache.org/images/spark-logo-rev.svg" width="50" height="50" alt="Spark" /></a>
 <a href="https://www.databricks.com" target="_blank" rel="noreferrer"><img src="https://www.databricks.com/wp-content/uploads/2022/06/db-nav-logo-stacked-white-desktop.svg" width="60" height="60" alt="Databricks" /></a>
-
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 
