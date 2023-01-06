@@ -18,7 +18,7 @@ Data Engineer Trainee @ Blueshift Brasil
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://spark.apache.org" target="_blank" rel="noreferrer"><img src="https://spark.apache.org/images/spark-logo-rev.svg" width="50" height="38" alt="Spark" /></a>
-<a href="https://www.databricks.com" target="_blank" rel="noreferrer"><img src="https://www.databricks.com/wp-content/uploads/2022/06/db-nav-logo-stacked-white-desktop.svg" width="36" height="36" alt="Databricks" /></a>
+<a href="https://www.databricks.com" target="_blank" rel="noreferrer"><img src="https://www.databricks.com/wp-content/uploads/2022/06/db-nav-logo-stacked-white-desktop.svg" width="50" height="50" alt="Databricks" /></a>
 
 </p>
 
