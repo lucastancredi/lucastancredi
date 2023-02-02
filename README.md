@@ -1,7 +1,7 @@
 Hi 👋 My name is Lucas Tancredi
 ========================================
 
-Data Engineer Trainee @ Blueshift Brasil
+Data Engineer
 ----------------------------------------
 
 * 🌍  I'm based in Brasil
