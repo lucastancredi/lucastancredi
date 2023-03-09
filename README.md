@@ -1,14 +1,14 @@
-Hi 👋 My name is Lucas Tancredi
+# Hi 👋 My name is Lucas Tancredi
 ========================================
 
-Data Engineer
+## Jr Data Engineer
 ----------------------------------------
 
 * 🌍  I'm based in Brasil
 * ✉️  You can contact me at [lucstancredi@gmail.com](mailto:lucstancredi@gmail.com)
-* 🧠  I'm learning Python, SQL, Spark and more about cloud concepts.
-* 🤝  I'm open to collaborating with anyone
-* ⚡  Really like to talk about new technologies and random stuff
+* 🧠  I'm learning Python, SQL, PySpark, Docker and more about cloud.
+* 🤝  I'm open to collaborating with anyone.
+* ⚡  Really like to talk about new technologies and random stuff.
 
 ### Skills
 
