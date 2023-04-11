@@ -1,7 +1,7 @@
-# Hi 👋 My name is Lucas Tancredi
+# Hi, 👋 My name is Lucas Tancredi
 ========================================
 
-## Data Engineer
+## I'm a Data Engineer
 ----------------------------------------
 
 * 🌍  I'm based in Brasil
