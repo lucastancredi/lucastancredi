@@ -31,6 +31,4 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/lucastancredi"><img src="https://github-readme-stats.vercel.app/api?username=lucastancredi&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lucastancredi's GitHub stats" /></a>
-
-<a href="https://github.com/lucastancredi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastancredi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastancredi&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
