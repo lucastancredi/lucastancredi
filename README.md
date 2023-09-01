@@ -5,7 +5,7 @@
 ----------------------------------------
 
 * 🌍  I'm based in Brasil
-* ✉️  You can contact me at [LinkedIn](linkedin:[lucstancredi@gmail.com](https://www.linkedin.com/in/lucastancredi/))
+* ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/lucastancredi/)
 * 🧠  I'm learning Python, SQL, PySpark, Docker and more about cloud.
 * 🤝  I'm open to collaborating with anyone.
 * ⚡  Really like to talk about new technologies and random stuff.
