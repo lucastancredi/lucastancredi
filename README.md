@@ -1,12 +1,12 @@
 # Hi, 👋 My name is Lucas Tancredi
 ========================================
 
-## I'm a Data Engineer
+## I'm a Data Engineer @ Grupo Boticário
 ----------------------------------------
 
 * 🌍  I'm based in Brasil
-* ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/lucastancredi/)
-* 🧠  I'm learning Python, SQL, PySpark, Docker and more about cloud.
+* ✉️  You can contact me at my [LinkedIn](https://www.linkedin.com/in/lucastancredi/)
+* 🧠  I'm learning more Python, SQL, PySpark, Databricks and more about data.
 * 🤝  I'm open to collaborating with anyone.
 * ⚡  Really like to talk about new technologies and random stuff.
 
@@ -17,8 +17,8 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://spark.apache.org" target="_blank" rel="noreferrer"><img src="https://spark.apache.org/images/spark-logo-rev.svg" width="50" height="50" alt="Spark" /></a>
-<a href="https://www.databricks.com" target="_blank" rel="noreferrer"><img src="https://www.databricks.com/wp-content/uploads/2022/06/db-nav-logo-stacked-white-desktop.svg" width="60" height="60" alt="Databricks" /></a>
+<a href="https://spark.apache.org" target="_blank" rel="noreferrer"><img src="https://spark.apache.org/images/spark-logo-rev.svg" width="60" height="60" alt="Spark" /></a>
+<a href="https://www.databricks.com" target="_blank" rel="noreferrer"><img src="https://www.databricks.com/wp-content/uploads/2022/06/db-nav-logo-stacked-white-desktop.svg" width="60" height="80" alt="Databricks" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
